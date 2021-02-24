@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://giphy.com/gifs/BpGWitbFZflfSUYuZ9)
+![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/giphy.gif)
 
 
 My utils:
