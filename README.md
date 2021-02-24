@@ -6,6 +6,7 @@
 I'm Josh and I live in Costa Rica
 ![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/CostaRica.gif)
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
