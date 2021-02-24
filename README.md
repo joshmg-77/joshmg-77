@@ -1,12 +1,9 @@
 ### Hi there 👋
 
+[](https://giphy.com/gifs/BpGWitbFZflfSUYuZ9)
+My utils:
 
-**joshmg-CA/joshmg-CA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-My favorites repos:
-
-[Utils for conversion Colors rgb and hex]()
+[Conversion Colors rgb and hex]()
 
 
 
