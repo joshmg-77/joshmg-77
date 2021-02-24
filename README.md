@@ -3,7 +3,8 @@
 ![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/giphy%20(1).gif)
 
 
-
+I'm Josh and I live in Costa Rica
+![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/CostaRica.gif)
 
 Here are some ideas to get you started:
 
