@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi there 👊🏻🙂👍🏻
 
 ![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/giphy%20(1).gif)
 
 
-My utils:
-
-[Conversion Colors rgb and hex]()
-
 
 
 Here are some ideas to get you started:
-
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
