@@ -2,6 +2,9 @@
 
 ![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/giphy%20(1).gif)
 
+[![Josh GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmg-77)](https://github.com/joshmg-77/github-readme-stats)
+
+
 
 I'm Josh and I live in Costa Rica
 ![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/CostaRica.gif)
