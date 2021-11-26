@@ -1,23 +1,44 @@
 ### Hi there 👊🏻🙂👍🏻
+<br>
+<br>
 
-![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/giphy%20(1).gif)
+### 🔭 I am currently working in a private organization.
+<br>
+<br>
 
-[![Josh GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmg-77)](https://github.com/joshmg-77/github-readme-stats)
+### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
+*dont stop learning*
+<br>
+<br>
+
+### 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.  
+*Choose your path* 
+<br>
+<br>
+
+### 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...  
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
-I'm Josh and I live in Costa Rica
-![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/CostaRica.gif)
+<div align="center"  style="width:95vw;margin:auto;">
+  <div>
+
+  ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmg-77&count_private=true&include_all_commits=true&show_owner=true&show_icons=true&theme=tokyonight)
+
+  </div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmg-77&langs_count=6&theme=tokyonight)](https://github.com/joshmg-77/github-readme-stats)
+
+</div>
 
 
-Here are some ideas to get you started:
+Contact me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div> 
+- <a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">hobbit-hole</a>
+</div>
