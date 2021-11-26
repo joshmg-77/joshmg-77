@@ -1,5 +1,7 @@
 ### Hi there 👊🏻🙂👍🏻
 
+![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/CostaRica.gif)
+
 ##### 🔭 I am currently working in a private organization.
 
 ##### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
