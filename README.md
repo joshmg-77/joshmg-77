@@ -1,9 +1,7 @@
 ### Hi there 👊🏻🙂👍🏻
 <br>
-<br>
 
 ### 🔭 I am currently working in a private organization.
-<br>
 <br>
 
 ### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
