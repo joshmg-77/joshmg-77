@@ -29,9 +29,19 @@
 </div>
 
 
+<br>
+<br>
+<br>
 Contact me: 
 
-<div> 
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="30" height="30"src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="30" height="30"src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="30" height="30"src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
