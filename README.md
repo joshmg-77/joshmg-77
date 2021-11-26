@@ -6,11 +6,7 @@
 
 ##### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
 
-_dont stop learning_
-
 ##### 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.
-
-_Choose your path_
 <br>
 <br>
 
