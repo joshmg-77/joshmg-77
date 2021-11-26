@@ -1,7 +1,6 @@
 ### Hi there 👊🏻🙂👍🏻
 
 ##### 🔭 I am currently working in a private organization.
-#### 🔭 I am currently working in a private organization.
 ##### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
 *dont stop learning*
 ##### 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.  
@@ -12,11 +11,9 @@
 ### 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...  
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
 
 <div align="center"  style="width:95vw;margin:auto;">
   <div>
