@@ -8,20 +8,11 @@
  - 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...
 
 <br>
-<br>
-
-<div align="center"  style="width:95vw;margin:auto;">
-  <div>
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmg-77&count_private=true&include_all_commits=true&show_owner=true&show_icons=true&theme=tokyonight)
 
-  </div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmg-77&langs_count=6&theme=tokyonight)](https://github.com/joshmg-77/github-readme-stats)
 
-</div>
-
-<br>
 <br>
 
 #### Group links:
