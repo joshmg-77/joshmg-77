@@ -1,17 +1,8 @@
 ### Hi there 👊🏻🙂👍🏻
-<br>
-<br>
-
-### 🔭 I am currently working in a private organization.
-<br>
-<br>
-
-### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
+##### 🔭 I am currently working in a private organization.
+##### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
 *dont stop learning*
-<br>
-<br>
-
-### 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.  
+##### 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.  
 *Choose your path* 
 <br>
 <br>
