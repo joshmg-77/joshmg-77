@@ -2,10 +2,10 @@
 
 ![<img src="coding.gif" width="50"/>](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/coding.gif)
 
-### 🔭 I am currently working in a private organization.
-### 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
-### 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.
-### 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...
+ - 🔭 I am currently working in a private organization.
+ - 🌱 I’m currently learning Ruby [RoR] also improving my fullstack skills and above all learning the english language
+ - 👯 I am currently collaborating in with the React and Svelte community both on Telegram and Facebook, helping to solve some problems or developer queries.
+ - 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...
 
 <br>
 <br>
