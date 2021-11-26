@@ -1,6 +1,6 @@
 ### Hi there 👊🏻🙂👍🏻
 
-![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/CostaRica.gif)
+![](https://github.com/joshmg-CA/joshmg-CA/blob/main/Gifs/coding.gif)
 
 ##### 🔭 I am currently working in a private organization.
 
