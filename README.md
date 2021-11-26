@@ -8,12 +8,14 @@
 <br>
 <br>
 
-### 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...  
+#### 👊🏼 Available to help in all the React environment, JS, HTML, CSS, etc...  
 
 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center"  style="width:95vw;margin:auto;">
   <div>
@@ -30,5 +32,7 @@
 Contact me: 
 
 <div> 
-- <a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">hobbit-hole</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="30" height="30"src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
 </div>
