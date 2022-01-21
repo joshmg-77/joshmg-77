@@ -33,9 +33,6 @@ Contact me:
   <img width="30" height="30"src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 
-<a href="https://t.me/josh_mg4">
-  <img width="30" height="30"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
-</a>
 <a href="https://www.linkedin.com/in/joshua-mart%C3%ADnez-garc%C3%ADa-b652691a3/">
   <img width="30" height="30"src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
