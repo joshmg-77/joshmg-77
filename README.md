@@ -38,10 +38,10 @@ I'm a web developer and I like the coding, especially in React,Node and recently
                                 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
                     </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                           
                       <a href="https://www.dev.to/joshmgca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
                           
