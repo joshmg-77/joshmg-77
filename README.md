@@ -6,7 +6,7 @@ I'm a web developer and I like the coding, especially in React,Node and recently
 
 - :earth_africa: I'm based in San Jose, Costa Rica
 - :desktop_computer: See my portfolio at [Building...](http://.)
-- :email: You can contact me at [joshmg276@gmail.com](mailto:joshmg276@gmail.com)
+- :email: You can contact me at [joshmg277@gmail.com](mailto:joshmg277@gmail.com)
 - :rocket: I'm currently working on Groups360 (github account https://github.com/JoshuaMartinez-G360)
 - :brain: I'm learning Rust, Threejs and improving my skills every day
 - :handshake: I'm open to collaborating on interesting projects
